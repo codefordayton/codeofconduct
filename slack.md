@@ -1,5 +1,5 @@
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact our HR manager Brenda Stone immediately. You can contact her by email, brenda@codeforamerica.org, or by direct messaging @brenda on Slack. 
-If you cannot reach Brenda and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact our Dave Best immediately. You can contact her by email, dave.e.best@gmail.com, or by direct messaging @dave on Slack. 
+If you cannot reach Dave and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
 ####Email Template for Anti-Harassment Reporting
 SUBJECT: Safe Space alert on Slack
